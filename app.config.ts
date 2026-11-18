@@ -130,6 +130,9 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     typedRoutes: true,
   },
   extra: {
+    eas: {
+      projectId: '88607326-8f7e-4a49-be03-66ff8163ff27',
+    },
     commitHash: resolveCommitHash(),
     buildDate: new Date().toISOString(),
     lanHost: resolveLocalLanIp(),
