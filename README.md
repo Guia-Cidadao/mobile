@@ -6,6 +6,9 @@ Plataforma mobile **CitizenTech** desenvolvida em **React Native (Expo)** para c
 
 ---
 
+## Link do video
+https://youtu.be/kLTmztvlTRQ
+
 ## ✨ Principais Funcionalidades
 
 - **Autenticação e Sessão Segura (`/auth`)**
